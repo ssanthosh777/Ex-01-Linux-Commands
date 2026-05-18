@@ -1,5 +1,8 @@
 # Ex-01-Linux-Commands
-
+```
+NAME: SANTHOSH S
+REG.NO: 212224100052
+```
 
 ## Aim:
 
