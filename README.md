@@ -1,4 +1,4 @@
-# Ex-01-Linux-Commands
+# Ex-02A-Linux-Commands
 ```
 NAME: SANTHOSH S
 REG.NO: 212224100052
